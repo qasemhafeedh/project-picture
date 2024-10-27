@@ -1,0 +1,41 @@
+body{
+    background-image: url(../imgs/spider.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+     
+
+body{
+
+    background-origin: padding-box;
+    background-color: yellow;
+    color: brown;
+    }
+
+h1{
+
+    font-size: 70px;
+    background-color: rgb(33, 73, 73);
+}
+img
+{
+float: right;
+width: 30%;
+
+}
+
+
+
+
+.emphsize{
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(32, 31, 31);
+}
+italic{
+    color: aqua;
+}
